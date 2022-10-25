@@ -11,13 +11,13 @@ I provide no guarantees with this code, but I do believe the experiments in the 
 To clone the repository run:
 
 ```
-git clone https://github.com/LeanneNortje/DAVEnet_VPKL.git
+git clone https://github.com/LeanneNortje/LocalisationAttentionNet_VPKL_on_generated_tags.git
 ```
 
 To get into the repository run:
 
 ```
-cd DAVEnet_VPKL/
+cd LocalisationAttentionNet_VPKL_on_generated_tags/
 ```
 
 ## VPKL visual keys
